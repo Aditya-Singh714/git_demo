@@ -1,5 +1,16 @@
+
 button{
     background-color: bisque;
     color: brown;
-    box-shadow:  20px 50px 40px rgba(10, 110, 240, 0.5);
+    box-shadow:  20px 50px 40px rgba(10, 110, 240, 0.5);}
+
+body{
+    text-align: center;
+}
+
+div{
+    height: 150px;
+    width: 500px;
+    border:  1px solid black;
+    margin: auto;
 }
